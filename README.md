@@ -1,7 +1,7 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)]
+![MasterHead](https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif)
 <h1 align="center">Hi 👋, I'm Soumyadip</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipojha&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipojha" /> </p>
 
 - 🌱 I’m currently learning **React,Mongodb**
