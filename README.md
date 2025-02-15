@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 <h1 align="center">Hi 👋, I'm Soumyadip</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
